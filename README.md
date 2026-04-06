@@ -26,9 +26,10 @@ Compared different artists and song metrics
 📂 Dataset
 Source: Spotify dataset (mention if from Kaggle or anywhere)
 Contains data on songs, artists, popularity, streams, etc.
-📸 Dashboard Preview
+Dashboard Preview
 
-(https://github.com/KaranSinghRana2005/Spotify-Dashboard/blob/main/Overview%20Page.png🔥)
+(<img width="1335" height="744" alt="Overview Page" src="https://github.com/user-attachments/assets/a389a452-350b-4066-aeff-fc52d18ae7ff" />
+
 
 
 
