@@ -52,6 +52,7 @@ The goal of this project is to demonstrate data analysis and visualization skill
 
 📬 Contact
 LinkedIn: (www.linkedin.com/in/karan-singh-rana-64274b262)
-GitHub: (https://github.com/KaranSinghRana2005)
+
+ GitHub: (https://github.com/KaranSinghRana2005)
 
 ⭐ If you like this project, give it a star!
