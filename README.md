@@ -28,7 +28,7 @@ Source: Spotify dataset (mention if from Kaggle or anywhere)
 Contains data on songs, artists, popularity, streams, etc.
 📸 Dashboard Preview
 
-(Add screenshots here – very important 🔥)
+(https://github.com/KaranSinghRana2005/Spotify-Dashboard/blob/main/Overview%20Page.png🔥)
 
 
 
