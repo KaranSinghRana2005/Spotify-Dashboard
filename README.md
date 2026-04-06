@@ -30,9 +30,15 @@ Dashboard Preview
 
 <img width="1260" height="719" alt="Home" src="https://github.com/user-attachments/assets/a23cd170-967d-4e3d-bffa-89ab048867cf" />
 
+
+
 <img width="1335" height="744" alt="Overview Page" src="https://github.com/user-attachments/assets/a389a452-350b-4066-aeff-fc52d18ae7ff" />
 
+
+
 <img width="1331" height="741" alt="Artists Page" src="https://github.com/user-attachments/assets/ff0119d4-a8bc-4ba0-b7a2-193e59bf716a" />
+
+
 
 <img width="1332" height="740" alt="Songs Page" src="https://github.com/user-attachments/assets/978b4439-799c-4d5f-a74e-eb03865e6df2" />
 
